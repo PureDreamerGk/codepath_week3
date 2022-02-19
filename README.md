@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![me](https://github.com/PureDreamerGk/codepath_week3/65t826.gif)
+![](https://github.com/PureDreamerGk/codepath_week3/blob/main/65t826.gif)
 
 
